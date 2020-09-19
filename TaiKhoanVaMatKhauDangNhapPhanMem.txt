@@ -1,0 +1,12 @@
+﻿Tài khoản 1: nhan
+mật khẩu: 123456
+
+
+
+Tài khoản 2: nhanvien2
+mật khẩu: 123456
+
+
+
+Tài khoản 3: nhandycu123456
+mật khẩu : nhandycu123456

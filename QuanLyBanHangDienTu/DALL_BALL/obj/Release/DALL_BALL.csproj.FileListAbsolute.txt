@@ -1,0 +1,7 @@
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\bin\Release\DALL_BALL.dll.config
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\bin\Release\DALL_BALL.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\bin\Release\DALL_BALL.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Release\DALL_BALL.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Release\DALL_BALL.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Release\DALL_BALL.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Release\DALL_BALL.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+D:\Lap Trinh HuFi\severReustApI\APISql\APISql\obj\Debug\APISql.njsproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\severReustApI\APISql\APISql\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Lap Trinh HuFi\severReustApI\APISql\APISql\obj\Debug\APISql.njsprojAssemblyReference.cache

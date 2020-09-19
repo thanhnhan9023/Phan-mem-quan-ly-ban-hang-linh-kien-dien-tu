@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QuanLyVatLieuXayDung.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="a" Type="DevExpress.Xpo.CollectionBindingBehavior" Scope="User">
+      <Value Profile="(Default)">AllowNew, AllowRemove</Value>
+    </Setting>
+    <Setting Name="QuanLyVatLieuXayDungConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-8SENJ8A\SQLEXPRESS;Initial Catalog=QuanLyVatLieuXayDung;User ID=sa;Password=sa123456&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-8SENJ8A\SQLEXPRESS;Initial Catalog=QuanLyVatLieuXayDung;User ID=sa;Password=sa123456</Value>
+    </Setting>
+    <Setting Name="â" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MAHH;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

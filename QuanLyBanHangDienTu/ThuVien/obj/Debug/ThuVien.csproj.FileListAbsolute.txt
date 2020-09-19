@@ -1,0 +1,216 @@
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\obj\Debug\ThuVien.csprojResolveAssemblyReference.cache
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\obj\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\obj\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\ThuVien\obj\Debug\ThuVien.dll.licenses
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.dll.licenses
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.dll.licenses
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.dll.licenses
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.dll.licenses
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.csproj.CopyComplete
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\ThuVien\obj\Debug\ThuVien.pdb

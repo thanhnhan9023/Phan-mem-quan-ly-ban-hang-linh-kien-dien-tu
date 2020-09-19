@@ -1,0 +1,1201 @@
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe.config
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.pdb
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\BUS.exe
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.Shared.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DAO.exe
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DT0.exe
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\FlashControlV71.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ShockwaveFlashObjects.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\stdole.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\BUS.pdb
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DAO.pdb
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DT0.pdb
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csprojResolveAssemblyReference.cache
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ChiTietHoaDonXuat.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ChiTietHoaDonNhap.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Chucvu.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.cnNhanVien.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.KhachHangc.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Kho.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.LuongNV.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.NhaCungCap.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.NhanVienND.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.QuanTriNgD.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Login.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.s.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonXuat.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonNhap.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinLoaiHang.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinHangHoa.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Properties.Resources.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.ChiTietHDXuat2.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.InChiTietHDNhap.resources
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.GenerateResource.Cache
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe.licenses
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe
+C:\Lap Trinh HUFI\Công Nghệ.Net\doan\QuanLyVatLieuXayDung\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe.config
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\BUS.exe
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DAO.exe
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Dialogs.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DT0.exe
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\BUS.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DAO.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DT0.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csprojResolveAssemblyReference.cache
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ChiTietHoaDonXuat.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ChiTietHoaDonNhap.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Chucvu.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.cnNhanVien.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.KhachHangc.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Kho.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.LuongNV.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.NhaCungCap.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.NhanVienND.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.QuanTriNgD.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Login.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.s.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonXuat.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonNhap.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinLoaiHang.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinHangHoa.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Properties.Resources.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.ChiTietHDXuat2.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.InChiTietHDNhap.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.GenerateResource.Cache
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe.licenses
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.XtraForm1.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Thongke.resources
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\quanlyvatlieuxaydung-master\QuanLyVatLieuXayDung\bin\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\Ung Dung Thong Minh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe.config
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe.config
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\BUS.exe
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DAO.exe
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Dialogs.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DT0.exe
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\BUS.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\BUS.exe.config
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DAO.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DAO.exe.config
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DT0.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DT0.exe.config
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csprojAssemblyReference.cache
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ChiTietHoaDonXuat.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ChiTietHoaDonNhap.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Chucvu.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.cnNhanVien.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.KhachHangc.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Kho.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.LuongNV.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.NhaCungCap.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.NhanVienND.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.QuanTriNgD.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Login.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.s.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonXuat.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonNhap.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Thongke.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinLoaiHang.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinHangHoa.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Properties.Resources.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.ChiTietHDXuat2.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.InChiTietHDNhap.resources
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.GenerateResource.cache
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe.licenses
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.CopyComplete
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DALL_BALL.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DALL_BALL.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DALL_BALL.dll.config
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe.config
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DALL_BALL.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Dialogs.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\stdole.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DALL_BALL.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DALL_BALL.dll.config
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Chucvu.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.cnNhanVien.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.DuyetDonHang.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.KhachHangc.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Kho1.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.LuongNV.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.NhaCungCap1.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Nhomnguoidung.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.PhanQuyenNguoiDung.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Phieuchi.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Phieuthu.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.QuanTriNgD.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Login.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.s.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Quyen.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonXuat.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongKeNhapHang.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinLoaiHang.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinHangHoa.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.LoaiKhachHang.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Properties.Resources.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.ChiTietHDXuat2.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.RptInChiTietHDNhap.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonNhap2.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.test.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.GenerateResource.cache
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe.licenses
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.CopyComplete
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Phanquyenchonhom.resources
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csprojAssemblyReference.cache
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe.config
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.exe
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\QuanLyVatLieuXayDung.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DALL_BALL.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Dialogs.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ThuVien.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DALL_BALL.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DALL_BALL.dll.config
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Mvvm.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ThuVien.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Chucvu.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.cnNhanVien.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.DuyetDonHang.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.KhachHangc.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Kho1.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.NhaCungCap1.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Nhomnguoidung.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Phanquyenchonhom.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.PhanQuyenNguoiDung.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.QuanTriNgD.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Login.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.s.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Quyen.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonXuat.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongKeNhapHang.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinLoaiHang.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.ThongTinHangHoa.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.LoaiKhachHang.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Properties.Resources.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.ChiTietHDXuat2.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.RptInChiTietHDNhap.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.TaoHoaDonNhap2.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.Report.test.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.GenerateResource.cache
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe.licenses
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csproj.CopyComplete
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.exe
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Phieuthurc1.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.GUI.Phieuchirc.resources
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\QuanLyVatLieuXayDung\obj\Debug\QuanLyVatLieuXayDung.csprojAssemblyReference.cache

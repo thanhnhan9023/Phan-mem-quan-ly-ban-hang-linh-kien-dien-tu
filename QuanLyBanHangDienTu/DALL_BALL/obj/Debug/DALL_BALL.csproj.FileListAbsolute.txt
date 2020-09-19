@@ -1,0 +1,20 @@
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\DALL_BALL\bin\Debug\DALL_BALL.dll.config
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\DALL_BALL\bin\Debug\DALL_BALL.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\DALL_BALL\bin\Debug\DALL_BALL.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.dll
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.csprojAssemblyReference.cache
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\DALL_BALL\bin\Debug\DALL_BALL.dll.config
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\DALL_BALL\bin\Debug\DALL_BALL.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\DALL_BALL\bin\Debug\DALL_BALL.pdb
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.dll
+D:\Lap Trinh HuFi\doanundungthongminh\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\bin\Debug\DALL_BALL.dll.config
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\bin\Debug\DALL_BALL.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\bin\Debug\DALL_BALL.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.csproj.CoreCompileInputs.cache
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.dll
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.pdb
+D:\Lap Trinh HuFi\New folder\QuanLyBanHangDienTu\DALL_BALL\obj\Debug\DALL_BALL.csprojAssemblyReference.cache
